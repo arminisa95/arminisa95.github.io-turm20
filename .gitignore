@@ -12,8 +12,6 @@ dist/
 
 # Build artifacts
 404/
-_next/
-styles/
 
 # Environment variables
 .env
